@@ -1,5 +1,3 @@
-According to the book "flask web learn and practice"
-a project which establish a complete blog website
 
 ```
 pip install -r requirements/dev.txt
